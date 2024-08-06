@@ -1,77 +1,87 @@
 <political_figures>
-	<item0>
-		<id>1</id>
-		<first_names>Andry Nirina</first_names>
-		<surname>Rajoelina</surname>
-		<date_of_birth>1974-05-30</date_of_birth>
-		<current_position>President of the Republic</current_position>
-		<biography>Andry Rajoelina is a Malagasy businessman and politician.</biography>
-		<photo_url/>
-		<parties>
-			<item0>
-				<id>1</id>
-				<name>TGV</name>
-				<acronym_expansion>Tanora Gasy Vonona</acronym_expansion>
-				<founded_date>2007-01-01</founded_date>
-				<role>Founder and President</role>
-				<start_date>2007-01-01</start_date>
-				<end_date>0000-00-00</end_date>
-			</item0>
-		</parties>
-		<terms>
-			<item0>
-				<title>President of the Republic</title>
-				<start_date>2019-01-19</start_date>
-				<end_date>0000-00-00</end_date>
-			</item0>
-			<item1>
-				<title>President of the High Transitional Authority</title>
-				<start_date>2009-03-17</start_date>
-				<end_date>2014-01-25</end_date>
-			</item1>
-		</terms>
-		<social_media/>
-	</item0>
-	<item1>
-		<id>2</id>
-		<first_names>Marc</first_names>
-		<surname>Ravalomanana</surname>
-		<date_of_birth>1949-12-12</date_of_birth>
-		<current_position>Former President of the Republic</current_position>
-		<biography>Marc Ravalomanana is a Malagasy politician and businessman.</biography>
-		<photo_url/>
-		<parties>
-			<item0>
-				<id>2</id>
-				<name>TIM</name>
-				<acronym_expansion>Tiako I Madagasikara</acronym_expansion>
-				<founded_date>2002-01-01</founded_date>
-				<role>Founder and Major Political Vehicle</role>
-				<start_date>2002-07-03</start_date>
-				<end_date>0000-00-00</end_date>
-			</item0>
-			<item1>
-				<id>3</id>
-				<name>AVI</name>
-				<acronym_expansion>Asa Vita no Ifampitsarana</acronym_expansion>
-				<founded_date>1999-04-05</founded_date>
-				<role>Founding Member and Early Political Platform</role>
-				<start_date>0000-00-00</start_date>
-				<end_date>2001-07-03</end_date>
-			</item1>
-		</parties>
-		<terms>
-			<item0>
-				<title>President of the Republic</title>
-				<start_date>2002-02-22</start_date>
-				<end_date>2007-05-22</end_date>
-			</item0>
-			<item1>
-				<title>President of the Republic</title>
-				<start_date>2007-05-06</start_date>
-				<end_date>2009-03-17</end_date>
-			</item1>
-		</terms>
-		<social_media/>
-	</item1>
+	<political_figure>
+		<item0>
+			<id>1</id>
+			<first_names>Andry Nirina</first_names>
+			<surname>Rajoelina</surname>
+			<date_of_birth>1974-05-30</date_of_birth>
+			<current_position>President of the Republic</current_position>
+			<biography>Andry Rajoelina is a Malagasy businessman and politician.</biography>
+			<photo_url>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Andry_Rajoelina_%282023%29.jpg/455px-Andry_Rajoelina_%282023%29.jpg</photo_url>
+			<website_url>https://www.andry-rajoelina.org/</website_url>
+			<parties>
+				<item0>
+					<id>1</id>
+					<name>TGV</name>
+					<acronym_expansion>Tanora Gasy Vonona</acronym_expansion>
+					<founded_date>2007-01-01</founded_date>
+					<role>Founder and President</role>
+					<start_date>2007-01-01</start_date>
+				</item0>
+			</parties>
+			<terms>
+				<item0>
+					<title>President of the Republic</title>
+					<start_date>2019-01-19</start_date>
+				</item0>
+				<item1>
+					<title>President of the High Transitional Authority</title>
+					<start_date>2009-03-17</start_date>
+					<end_date>2014-01-25</end_date>
+				</item1>
+			</terms>
+			<social_media>
+				<x_url>https://x.com/se_rajoelina</x_url>
+				<facebook_url>https://www.facebook.com/SE.AndryRajoelina</facebook_url>
+				<linkedin_url>https://www.linkedin.com/in/andryrajoelina/</linkedin_url>
+				<wikipedia_url>https://fr.wikipedia.org/wiki/Andry_Rajoelina</wikipedia_url>
+			</social_media>
+		</item0>
+		<item1>
+			<id>2</id>
+			<first_names>Marc</first_names>
+			<surname>Ravalomanana</surname>
+			<date_of_birth>1949-12-12</date_of_birth>
+			<current_position>Former President of the Republic</current_position>
+			<biography>Marc Ravalomanana is a Malagasy politician and businessman.</biography>
+			<photo_url>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Marc_Ravalomanana_en_2017.jpg/472px-Marc_Ravalomanana_en_2017.jpg</photo_url>
+			<website_url/>
+			<parties>
+				<item0>
+					<id>2</id>
+					<name>TIM</name>
+					<acronym_expansion>Tiako I Madagasikara</acronym_expansion>
+					<founded_date>2002-01-01</founded_date>
+					<role>Founder and Major Political Vehicle</role>
+					<start_date>2002-07-03</start_date>
+				</item0>
+				<item1>
+					<id>3</id>
+					<name>AVI</name>
+					<acronym_expansion>Asa Vita no Ifampitsarana</acronym_expansion>
+					<founded_date>1999-04-05</founded_date>
+					<role>Founding Member and Early Political Platform</role>
+					<end_date>2001-07-03</end_date>
+				</item1>
+			</parties>
+			<terms>
+				<item0>
+					<title>President of the Republic</title>
+					<start_date>2002-02-22</start_date>
+					<end_date>2007-05-22</end_date>
+				</item0>
+				<item1>
+					<title>President of the Republic</title>
+					<start_date>2007-05-06</start_date>
+					<end_date>2009-03-17</end_date>
+				</item1>
+			</terms>
+			<social_media>
+				<x_url>https://x.com/ravalomanana</x_url>
+				<facebook_url>https://www.facebook.com/marcravalomanana.ofisialy</facebook_url>
+				<linkedin_url/>
+				<wikipedia_url>https://fr.wikipedia.org/wiki/Marc_Ravalomanana</wikipedia_url>
+			</social_media>
+		</item1>
+	</political_figure>
 </political_figures>
