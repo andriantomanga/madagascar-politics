@@ -1,0 +1,52 @@
+[
+	{
+		"id": "1",
+		"name": "TGV",
+		"acronym_expansion": "Tanora Gasy Vonona",
+		"founded_date": "2007-01-01",
+		"leader": "Andry Rajoelina",
+		"headquarters": "Antananarivo",
+		"ideology": "Nationalisme, Centre-droit",
+		"color": "Blue"
+	},
+	{
+		"id": "2",
+		"name": "TIM",
+		"acronym_expansion": "Tiako I Madagasikara",
+		"founded_date": "2002-01-01",
+		"leader": "Marc Ravalomanana",
+		"headquarters": "Antananarivo",
+		"ideology": "Centre-gauche, Réformisme",
+		"color": "Red"
+	},
+	{
+		"id": "3",
+		"name": "AVI",
+		"acronym_expansion": "Asa Vita no Ifampitsarana",
+		"founded_date": "1999-04-05",
+		"leader": "André Ntsay",
+		"headquarters": "Antananarivo",
+		"ideology": "Centre-droit, Réformisme",
+		"color": "Green"
+	},
+	{
+		"id": "4",
+		"name": "RPSD",
+		"acronym_expansion": "Rassemblement pour le Projet de Société de Développement",
+		"founded_date": "2004-03-01",
+		"leader": "Jean Louis Robinson",
+		"headquarters": "Antananarivo",
+		"ideology": "Centre-gauche, Social-démocratie",
+		"color": "Yellow"
+	},
+	{
+		"id": "5",
+		"name": "MTS",
+		"acronym_expansion": "Miaraka Amin'ny Tanindrazana",
+		"founded_date": "2011-06-10",
+		"leader": "Hery Rajaonarimampianina",
+		"headquarters": "Antananarivo",
+		"ideology": "Centre-droit, Libéralisme",
+		"color": "Orange"
+	}
+]
