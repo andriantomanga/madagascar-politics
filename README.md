@@ -1,5 +1,7 @@
 # Madagascar Politics
 
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/mg.svg" alt="Flag of Madagascar" width="100"/>
+
 This repository contains comprehensive data on the political landscape of Madagascar. It includes information on political figures, their roles, affiliations, and more, offering a detailed view of Madagascar's political environment.
 
 # Project Overview
