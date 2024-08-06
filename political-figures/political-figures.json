@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "first_names": "Andry Nirina",
+    "surname": "Rajoelina",
+    "date_of_birth": "1974-05-30",
+    "current_position": "President of the Republic",
+    "biography": "Andry Rajoelina is a Malagasy businessman and politician.",
+    "photo_url": "",
+    "parties": [
+      {
+        "id": 1,
+        "name": "TGV",
+        "acronym_expansion": "Tanora Gasy Vonona",
+        "founded_date": "2007-01-01",
+        "role": "Founder and President",
+        "start_date": "2007-01-01",
+        "end_date": "0000-00-00"
+      }
+    ],
+    "terms": [
+      {
+        "title": "President of the Republic",
+        "start_date": "2019-01-19",
+        "end_date": "0000-00-00"
+      },
+      {
+        "title": "President of the High Transitional Authority",
+        "start_date": "2009-03-17",
+        "end_date": "2014-01-25"
+      }
+    ],
+    "social_media": null
+  },
+  {
+    "id": "2",
+    "first_names": "Marc",
+    "surname": "Ravalomanana",
+    "date_of_birth": "1949-12-12",
+    "current_position": "Former President of the Republic",
+    "biography": "Marc Ravalomanana is a Malagasy politician and businessman.",
+    "photo_url": "",
+    "parties": [
+      {
+        "id": 2,
+        "name": "TIM",
+        "acronym_expansion": "Tiako I Madagasikara",
+        "founded_date": "2002-01-01",
+        "role": "Founder and Major Political Vehicle",
+        "start_date": "2002-07-03",
+        "end_date": "0000-00-00"
+      },
+      {
+        "id": 3,
+        "name": "AVI",
+        "acronym_expansion": "Asa Vita no Ifampitsarana",
+        "founded_date": "1999-04-05",
+        "role": "Founding Member and Early Political Platform",
+        "start_date": "0000-00-00",
+        "end_date": "2001-07-03"
+      }
+    ],
+    "terms": [
+      {
+        "title": "President of the Republic",
+        "start_date": "2002-02-22",
+        "end_date": "2007-05-22"
+      },
+      {
+        "title": "President of the Republic",
+        "start_date": "2007-05-06",
+        "end_date": "2009-03-17"
+      }
+    ],
+    "social_media": null
+  }
+]
