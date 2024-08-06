@@ -49,4 +49,22 @@
 		<ideology>Centre-droit, Libéralisme</ideology>
 		<color>Orange</color>
 	</item4>
+	<item5>
+		<id>6</id>
+		<name>AVANA</name>
+		<acronym_expansion>Antoko ny Vahoaka Aloha No Andrianina</acronym_expansion>
+		<founded_date>2013-04-12</founded_date>
+		<leader>Jean-Louis Robinson</leader>
+		<headquarters>Antananarivo</headquarters>
+		<ideology>A centrist party that aims to stay away from political infighting.</ideology>
+		<color/>
+	</item5>
+	<item6>
+		<id>7</id>
+		<name>Firaisankina</name>
+		<acronym_expansion/>
+		<founded_date>2024-02-23</founded_date>
+		<leader>Marc Ravalomanana and Siteny Randrianasoloniaiko</leader>
+		<color>Turquoise</color>
+	</item6>
 </political_parties>
