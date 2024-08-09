@@ -3,6 +3,7 @@
 		<id>1</id>
 		<name>TGV</name>
 		<acronym_expansion>Tanora Gasy Vonona</acronym_expansion>
+		<presentation/>
 		<founded_date>2007-01-01</founded_date>
 		<leader>Andry Rajoelina</leader>
 		<headquarters>Antananarivo</headquarters>
@@ -13,6 +14,7 @@
 		<id>2</id>
 		<name>TIM</name>
 		<acronym_expansion>Tiako I Madagasikara</acronym_expansion>
+		<presentation/>
 		<founded_date>2002-01-01</founded_date>
 		<leader>Marc Ravalomanana</leader>
 		<headquarters>Antananarivo</headquarters>
@@ -23,6 +25,7 @@
 		<id>3</id>
 		<name>AVI</name>
 		<acronym_expansion>Asa Vita no Ifampitsarana</acronym_expansion>
+		<presentation/>
 		<founded_date>1999-04-05</founded_date>
 		<leader>André Ntsay</leader>
 		<headquarters>Antananarivo</headquarters>
@@ -33,6 +36,7 @@
 		<id>4</id>
 		<name>RPSD</name>
 		<acronym_expansion>Rassemblement pour le Projet de Société de Développement</acronym_expansion>
+		<presentation/>
 		<founded_date>2004-03-01</founded_date>
 		<leader>Jean Louis Robinson</leader>
 		<headquarters>Antananarivo</headquarters>
@@ -43,6 +47,7 @@
 		<id>5</id>
 		<name>MTS</name>
 		<acronym_expansion>Miaraka Amin'ny Tanindrazana</acronym_expansion>
+		<presentation/>
 		<founded_date>2011-06-10</founded_date>
 		<leader>Hery Rajaonarimampianina</leader>
 		<headquarters>Antananarivo</headquarters>
@@ -53,6 +58,7 @@
 		<id>6</id>
 		<name>AVANA</name>
 		<acronym_expansion>Antoko ny Vahoaka Aloha No Andrianina</acronym_expansion>
+		<presentation/>
 		<founded_date>2013-04-12</founded_date>
 		<leader>Jean-Louis Robinson</leader>
 		<headquarters>Antananarivo</headquarters>
@@ -63,8 +69,22 @@
 		<id>7</id>
 		<name>Firaisankina</name>
 		<acronym_expansion/>
+		<presentation>A Malagasy political coalition formed in February 2024 for the 2024 legislative and municipal elections. It is composed of: TIM (Tiako I Madagasikara), HVM (Hery Vaovao ho an'i Madagasikara), Pro-Siteny, TT (Tsara Tahafina), and APM (Antoko Politika Madio).</presentation>
 		<founded_date>2024-02-23</founded_date>
 		<leader>Marc Ravalomanana and Siteny Randrianasoloniaiko</leader>
+		<headquarters/>
+		<ideology/>
 		<color>Turquoise</color>
 	</item6>
+	<item7>
+		<id>8</id>
+		<name>HVM</name>
+		<acronym_expansion>Hery Vaovao Hoan'i Madagasikara</acronym_expansion>
+		<presentation>The party emerged in the context of the political transition following the 2009 crisis. HVM positions itself as a centrist and pragmatic party, with a focus on economic development, governance transparency, national unity, and social reforms. It advocates for modernizing the country's infrastructure, fighting corruption, and promoting social inclusion. Despite initial successes, HVM has faced criticism for its handling of economic challenges and has lost influence since the 2018 elections.</presentation>
+		<founded_date>2014-06-01</founded_date>
+		<leader>Rivo Rakotovao</leader>
+		<headquarters>Antananarivo</headquarters>
+		<ideology>Centrist and pragmatic principles.</ideology>
+		<color>Blue</color>
+	</item7>
 </political_parties>
